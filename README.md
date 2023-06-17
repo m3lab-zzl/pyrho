@@ -2,6 +2,8 @@
 <img src="static/logo.png" width=450>
 </p>
 
+相比于前一个仅做简单介绍的项目，这个项目提供了更多具体计算细节，作为正式学习材料比较合适
+
 Pyrho is a real-space DFT code written in Python. It is *not* built to be super-fast or scalable-
 instead, it is built to be super-readable.
 
