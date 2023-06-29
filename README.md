@@ -4,6 +4,10 @@
 
 相比于前一个仅做简单介绍的项目，这个项目让计算从1D扩展到3D，补充了很多细节，而且算法原理也和第一个项目有所区别，作为正式学习材料比较合适
 
+- [ ] 为什么必须要用endpoint=False？
+- [ ] 为什么正交化就可以避免全部跑到基态？
+- [ ] XC和Hartree势的近似会对收敛后的结果产生什么影响？
+
 Pyrho is a real-space DFT code written in Python. It is *not* built to be super-fast or scalable-
 instead, it is built to be super-readable.
 
